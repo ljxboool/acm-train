@@ -1,7 +1,5 @@
 # Codeforces 刷题记录
-
 这个仓库用于记录个人 Codeforces 练习代码，当前主要使用 C++ 编写。
-
 ## 目录结构
 
 ```text
